@@ -1,0 +1,6 @@
+[
+  "test_math_func2.py::test_add[7-3-10]",
+  "test_math_func2.py::test_add[Hello-World-HelloWorld]",
+  "test_math_func2.py::test_add[10.5-25.5-36]",
+  "test_math_func2.py::test_add[10-1-11]"
+]
